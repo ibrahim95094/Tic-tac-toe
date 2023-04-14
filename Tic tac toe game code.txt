@@ -61,7 +61,3 @@ def play_game():
             print('That position is already taken. Try again.')
 
 play_game()
-
-This code defines several functions to play the game of Tic Tac Toe, including print_board() to print the board to the console, check_winner() to check if there is a winner, and play_game() to handle the game logic. The game allows the player to choose their move by entering a position (1-9), and the computer chooses a random position for the other player.
-
-You can customize this code to add more features, such as allowing the player to choose whether to play against the computer or another human player, or implementing a GUI to make the game more visually appealing.
